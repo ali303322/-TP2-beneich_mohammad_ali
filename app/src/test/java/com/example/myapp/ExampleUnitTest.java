@@ -12,11 +12,11 @@ import static org.junit.Assert.*;
 public class ExampleUnitTest {
     @Test
     public void addition_isCorrect() {
-        assertEquals(4, 2 + 1);
+        assertEquals(3, 2 + 1);
     }
 
     @Test
     public void substract_isCorrect () {
-        assertEquals(4,8-3);
+        assertEquals(5,8-3);
     }
 }
